@@ -185,11 +185,14 @@ hr {
     border-radius: 50%;
 }
 
-.about-me-desc {}
+.about-me-desc {
+    
+}
 
-.about-me-desc p {
+.about-me-desc p, .about-me-desc a {
     text-align: center;
     font-size: 1.2rem;
+    color: green;
 }
 
 .common-hr {}
