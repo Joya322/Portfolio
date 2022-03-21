@@ -274,10 +274,13 @@ hr {
 
 .card-desc {}
 
-.card-desc ol,
-ul {
+.card-desc ol{
     padding: 20px 40px;
 
+}
+
+.card-desc ul{
+    padding: 20px 25px;
 }
 
 .card-desc ol li {
