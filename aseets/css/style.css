@@ -190,11 +190,14 @@ hr {
 .about-me-desc p {
     text-align: center;
     font-size: 1.2rem;
+    padding: 10px;
     
 }
 
 .about-me-desc a{
-    display: right;
+    text-align: center;
+    font-size: 1.2rem;
+    color: blue;
 }
 
 .common-hr {}
@@ -274,13 +277,10 @@ hr {
 
 .card-desc {}
 
-.card-desc ol{
+.card-desc ol,
+ul {
     padding: 20px 40px;
 
-}
-
-.card-desc ul{
-    padding: 20px 25px;
 }
 
 .card-desc ol li {
@@ -294,7 +294,7 @@ hr {
 }
 
 .skills-container {
-    padding-right: 45px;
+    padding-right: 10px;
 }
 
 .skills-container li {
