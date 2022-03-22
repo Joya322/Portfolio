@@ -197,7 +197,8 @@ hr {
 .about-me-desc a{
     text-align: center;
     font-size: 18px;
-    color: blue;
+    margin-right: 10px;
+    color: rgb(138, 138, 194);
 }
 
 .common-hr {}
