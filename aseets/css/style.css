@@ -88,6 +88,7 @@ hr {
 
 .nav-heading h1 {
     color: white;
+    font-size: 1.7rem;
 }
 
 .nav-menu {
@@ -101,6 +102,7 @@ hr {
     padding: 10px;
     margin: 5px 0;
     border-radius: 30px;
+    font-size: 1.1rem;
     text-transform: uppercase;
 
 }
@@ -187,19 +189,14 @@ hr {
 
 .about-me-desc {}
 
-.about-me-desc p {
-    text-align: center;
-    font-size: 1.2rem;
-    padding: 10px;
-
-}
-
+.about-me-desc p,
 .about-me-desc a {
     text-align: center;
-    font-size: 18px;
-    margin-right: 50px;
-    color: #000;
+    font-size: 1rem;
+    padding: 10px 5px;
+
 }
+
 
 .common-hr {}
 
@@ -253,9 +250,9 @@ hr {
 
 .material-icons {
     color: green;
-    font-size: 70px;
+    font-size: 60px;
     margin-top: 20px;
-    width: 100px;
+    width: 90px;
 }
 
 .rounded-img {
