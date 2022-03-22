@@ -190,13 +190,14 @@ hr {
 .about-me-desc p {
     text-align: center;
     font-size: 1.2rem;
-    /* padding: 10px; */
-
+    padding: 10px;
+    
 }
 
-.about-me-desc a {
+.about-me-desc a{
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 18px;
+    color: blue;
 }
 
 .common-hr {}
@@ -276,8 +277,10 @@ hr {
 
 .card-desc {}
 
-.card-desc ol {
+.card-desc ol,
+ul {
     padding: 20px 40px;
+
 }
 
 .card-desc ol li {
@@ -288,10 +291,6 @@ hr {
 .card-desc ol li p {
     padding: 3px;
     font-size: 1rem;
-}
-
-.card-desc ul {
-    padding: 20px 10px;
 }
 
 .skills-container {
@@ -465,17 +464,16 @@ hr {
 /* Experience and skills ends */
 
 /* projects starts */
-.projects {
+.projects{
     width: 100%;
     height: 200px;
 }
 
-.projects::after {
+.projects::after{
     content: "";
     display: table;
     clear: both;
 }
-
 /* projects ends */
 
 /* Achievement and contact me starts */
@@ -536,7 +534,7 @@ textarea {
     width: 50px;
 }
 
-.media-buttons .btn:hover {
+.media-buttons .btn:hover{
     background-color: #aed4fa;
 }
 
@@ -549,7 +547,7 @@ textarea {
 /* Achievement and contact me ends */
 
 /* footer starts */
-.footer {
+.footer{
     background-color: rgb(3, 77, 77);
     padding: 20px;
     text-align: center;
@@ -557,20 +555,19 @@ textarea {
     color: white;
 }
 
-.footer-menu a {
+.footer-menu a{
     font-size: 0.8rem;
     display: block;
     margin: 15px 0px;
 }
 
-.footer-menu a:hover {
+.footer-menu a:hover{
     color: aqua;
 }
 
-.footer::after {
+.footer::after{
     content: "";
     display: table;
     clear: both;
 }
-
 /* footer ends */

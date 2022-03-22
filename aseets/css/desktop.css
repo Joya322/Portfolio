@@ -85,7 +85,7 @@
     /* background-color: ; */
     padding: 5px 10px;
     margin: 20px 0px;
-    font-size: 24px;
+    font-size: 22px;
     background-color: transparent;
 }
 
@@ -149,10 +149,6 @@
     padding: 1% 1%;
 }
 
-.card-desc ol, ul {
-    padding: 20px 40px;
-}
-
 /* Experience and skills ends */
 
 /* Achievement and contact me starts */
@@ -168,28 +164,25 @@
     position: relative;
 }
 
-.media-buttons {
+.media-buttons{
     position: absolute;
     margin-top: 200px;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
 }
-
 /* Achievement and contact me ends */
 
 /* footer starts */
-.footer-menu {
+.footer-menu{
     margin-top: 12px;
 }
-
-.footer-menu a {
+.footer-menu a{
     display: inline;
     margin: 10px;
 }
 
-.footer-desc {
+.footer-desc{
     margin-top: 10px;
 }
-
 /* footer ends */
