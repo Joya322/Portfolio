@@ -197,8 +197,8 @@ hr {
 .about-me-desc a {
     text-align: center;
     font-size: 18px;
-    margin-right: 20px;
-    color: rgb(8, 8, 247);
+    margin-right: 30px;
+    
 }
 
 .common-hr {}
@@ -285,8 +285,7 @@ ul {
 }
 
 .card-desc ul {
-    padding: 20px 20px;
-
+    padding: 20px 10px;
 }
 
 .card-desc ol li {
