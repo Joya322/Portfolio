@@ -249,10 +249,11 @@ hr {
 }
 
 .material-icons {
-    color: yellow;
+    color: green;
     font-size: 60px;
     margin-top: 20px;
     width: 100px;
+    line-height: 80px;
 }
 
 .rounded-img {
