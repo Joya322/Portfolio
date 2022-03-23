@@ -249,7 +249,7 @@ hr {
 }
 
 .material-icons {
-    color: green;
+    color: blue;
     font-size: 60px;
     margin-top: 20px;
     width: 100px;
@@ -260,6 +260,7 @@ hr {
     border: 5px solid white;
     border-radius: 50%;
     padding: 10px;
+    padding-right: 15px;
     text-align: center;
 }
 
