@@ -250,9 +250,10 @@ hr {
 
 .material-icons {
     color: yellow;
-    font-size: 70px;
+    font-size: 60px;
     margin-top: 20px;
     width: 100px;
+    text-align: center;
     
 }
 
@@ -260,6 +261,7 @@ hr {
     border: 5px solid white;
     border-radius: 50%;
     padding: 10px;
+    text-align: center;
 }
 
 /* .card-icon img {} */
