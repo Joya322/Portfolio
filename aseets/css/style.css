@@ -222,7 +222,7 @@ hr {
 
 /* Experience and skills starts */
 .Experience-cards {
-    padding: 1% 3%;
+    padding: 1% 1%;
 }
 
 .work-experience {}
@@ -248,18 +248,18 @@ hr {
 
 }
 
-.material-icons {
+.card-icon .material-icons {
     color: green;
     font-size: 60px;
     margin-top: 20px;
     width: 100px;
-    text-align: center;
+    
 }
 
 .rounded-img {
     border: 5px solid white;
     border-radius: 50%;
-    padding: 10px;
+    padding: 15px;
 }
 
 /* .card-icon img {} */
