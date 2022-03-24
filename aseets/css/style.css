@@ -232,7 +232,7 @@ hr {
     border-radius: 5px;
     padding: 10px;
     transition: 0.3s;
-    height: 900px;
+    height: 650px;
     justify-content: center;
     box-shadow: 2px 3px 5px 5px gray;
 }
@@ -250,17 +250,16 @@ hr {
 
 .card-icon .material-icons {
     color: green;
-    font-size: 50px;
+    font-size: 60px;
     margin-top: 20px;
-    width: 90px;
-    
+    width: 100px;
+
 }
 
 .rounded-img {
     border: 5px solid white;
     border-radius: 50%;
-    padding: 15px;
-    margin-right: 15px;
+    padding: 15px 20px 15px 15px;
 }
 
 /* .card-icon img {} */
@@ -383,7 +382,7 @@ ul {
 }
 
 /* bootstrap animation */
-.bootstrap::after {
+/* .bootstrap::after {
     animation-name: bootstrap;
 }
 
@@ -391,10 +390,10 @@ ul {
     to {
         width: 0%;
     }
-}
+} */
 
 /* jquery animation */
-.jquery::after {
+/* .jquery::after {
     animation-name: jquery;
 }
 
@@ -402,10 +401,10 @@ ul {
     to {
         width: 0%;
     }
-}
+} */
 
 /* node-js animation */
-.node-js::after {
+/* .node-js::after {
     animation-name: node-js;
 }
 
@@ -416,7 +415,7 @@ ul {
 }
 
 /* express-js animation */
-.express-js::after {
+/* .express-js::after {
     animation-name: express-js;
 }
 
@@ -424,7 +423,7 @@ ul {
     to {
         width: 0%;
     }
-}
+} */
 
 /* github animation */
 .github::after {
@@ -438,7 +437,7 @@ ul {
 }
 
 /* react-js animation */
-.react-js::after {
+/* .react-js::after {
     animation-name: react-js;
 }
 
@@ -446,7 +445,7 @@ ul {
     to {
         width: 0%;
     }
-}
+} */
 
 /* php animation */
 .php::after {
@@ -456,6 +455,17 @@ ul {
 @keyframes php {
     to {
         width: 40%;
+    }
+}
+
+/* laravel animation */
+.laravel::after {
+    animation-name: laravel;
+}
+
+@keyframes laravel {
+    to {
+        width: 10%;
     }
 }
 
